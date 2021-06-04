@@ -1,1 +1,1 @@
-# Code_Examples
+1) This is my website base template, showcasing my navbar and css editing 
