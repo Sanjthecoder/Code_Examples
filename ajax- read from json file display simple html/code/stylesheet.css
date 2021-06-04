@@ -1,0 +1,23 @@
+.buttonaz{
+    display: block;
+    text-align: center;
+    font-size: 16px;
+    padding: 14px 28px;
+    cursor: pointer;
+    background-color:honeydew;
+    color: black;
+    border-radius: 4px;
+
+}
+
+.buttonaz:hover{
+    background-color:#4CAF50;
+    color:white;
+}
+
+#displayCompany{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font: bold;
+
+}

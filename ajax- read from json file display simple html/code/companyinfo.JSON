@@ -1,0 +1,7 @@
+{"companies":[
+
+    {"name":"Tesla", "city":"Austin", "province": "Texas", "image": "images/tesla.png"},
+    {"name":"WealthSimple", "city":"Toronto", "province": "Ontairo", "image": "images/wealthsimple.png"},
+    {"name":"Apple", "city":"Cupertino", "province": "California", "image": "images/apple.png"}
+
+]}
